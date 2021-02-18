@@ -1,2 +1,4 @@
 *.csv
 *.xls*
+downloads
+books_crawler/spiders/__pycache__
